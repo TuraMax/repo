@@ -1,0 +1,14 @@
+Package: 1
+Name: 2
+Version: 3
+Architecture: 12
+Description: 3
+Maintainer: 4
+Author: Fabio
+Section: 5
+Depends: 6
+Filename: com.arnolt.one
+Size: 1 kb
+MD5sum: 7
+SHA1: 8
+SHA256: 9
